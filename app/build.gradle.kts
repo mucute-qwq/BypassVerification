@@ -7,5 +7,5 @@ android {
 }
 
 dependencies {
-    compileOnly(files("libs/libxposed-api-100.aar"))
+    compileOnly(libs.libxposed.api)
 }
