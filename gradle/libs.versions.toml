@@ -1,6 +1,6 @@
 [versions]
 agp = "9.1.0"
-libxposed = "101.0.0"
+libxposed = "101.0.1"
 
 [libraries]
 libxposed-api = { module = "io.github.libxposed:api", version.ref = "libxposed" }
